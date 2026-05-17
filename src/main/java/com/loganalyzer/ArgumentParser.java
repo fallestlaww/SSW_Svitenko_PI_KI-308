@@ -90,7 +90,7 @@ public class ArgumentParser {
 
     /** Текст вбудованої довідки. */
     public static String helpText() {
-        return "LogAnalyzer — Windows log analysis CLI utility (Java)\n"
+        return "LogAnalyzer — Windows log analysis CLI utility\n"
             + "\n"
             + "USAGE:\n"
             + "  java -jar LogAnalyzer.jar [OPTIONS]\n"
